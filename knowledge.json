@@ -1,0 +1,32 @@
+{
+  "questions": [
+    {
+      "question": "Who are you ?",
+      "answer": "I am a crude chatbot that still trying to learn stuffs."
+    },
+    {
+      "question": "hey there",
+      "answer": "Hello"
+    },
+    {
+      "question": "& c:/Users/narut/Downloads/Homework/Project/ChatBot/venv/Scripts/python.exe c:/Users/narut/Downloads/Homework/Project/ChatBot/main.py",
+      "answer": "& c:/Users/narut/Downloads/Homework/Project/ChatBot/venv/Scripts/python.exe c:/Users/narut/Downloads/Homework/Project/ChatBot/main.py"
+    },
+    {
+      "question": "yo ",
+      "answer": "hi there"
+    },
+    {
+      "question": "hello ",
+      "answer": "Hello there"
+    },
+    {
+      "question": "what is my name ?",
+      "answer": "You are Chris, my creator "
+    },
+    {
+      "question": "again who am i ?",
+      "answer": "You are Chris, my creator"
+    }
+  ]
+}
